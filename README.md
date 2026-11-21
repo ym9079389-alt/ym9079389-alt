@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Youssef Abdelmged 👋
 
-<!--
-**ym9079389-alt/ym9079389-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend .NET student at Route Academy** · Cairo, Egypt
 
-Here are some ideas to get you started:
+This GitHub tracks my coursework and projects from the Route Academy backend .NET diploma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I'm working with
+- C# (basics, OOP, advanced topics)
+- SQL Server
+- C++ (university OOP course)
+
+## Currently learning
+- LINQ and Entity Framework Core
+- ASP.NET Core MVC & Web API
+
+## Featured project
+- [City Library System](https://github.com/ym9079389-alt/city-library-system) - C# console project (in progress)
